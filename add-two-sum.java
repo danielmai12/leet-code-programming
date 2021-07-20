@@ -52,3 +52,8 @@ class Solution {
         return listSum;
     }
 }
+
+/**
+ * Runtime: 1 ms, faster than 100.00% of Java online submissions for Add Two Numbers.
+ * Memory Usage: 38.9 MB, less than 96.92% of Java online submissions for Add Two Numbers.
+ */
